@@ -10,7 +10,7 @@ A simple Flutter login screen app.
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](assets/images/login1)
+![Login Screen](assets/images/login1.png)
 
 ### Validation
-![Validation](assets/images/login2)
+![Validation](assets/images/login2.png)
